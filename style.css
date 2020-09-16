@@ -1,0 +1,61 @@
+/* Caption text */
+.text {
+  color:   	   	#C0C0C0;
+  font-size: 45px;
+  padding: 8px 12px;
+  font: bold;
+  position: absolute;
+  bottom: 50px;
+  font-family: Lustria ;
+  width: 100%;
+  text-align: center;
+}
+.text1 {
+  color:   	  #32a8b8;
+  font-size: 50px;
+
+  font: bolder;
+  font-family: 'courgette',cursive;
+  position: absolute;
+   bottom: 1300%;
+   font-family: Lustria ;
+  font-weight: bold;
+  
+  font-family: Edwardian Script ITC;
+ 
+  width: 100%;
+  text-align: center;
+}
+/*footer*/
+.footer {
+  position: fixed;
+  font-size:28px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-weight: larger;
+  color:black ;
+  text-align: center;
+}
+@media only screen and (max-width: 768px) {
+  .text {
+    color:   	   #91060a;
+    font-size: 45px;
+    padding: 8px 12px;
+    font: bold;
+    position: absolute;
+    bottom: 95px;
+     margin-left: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .text1{
+    text-align: center;
+    bottom: 1200%;
+    font-weight: bold;
+    font-size: 2.8rem;
+    font-family: Edwardian Script ITC;
+    color:  blue;
+  }
+  
+}
